@@ -1,0 +1,3 @@
+android/libs/commonlib/commonlib.aar filter=lfs diff=lfs merge=lfs -text
+android/libs/mobilertc/mobilertc.aar filter=lfs diff=lfs merge=lfs -text
+ios/MobileRTC.framework/MobileRTC filter=lfs diff=lfs merge=lfs -text
